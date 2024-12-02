@@ -4,12 +4,10 @@ This repository contains the source code and datasets for the paper *LFV-treeR-S
 
 ## Overview
 
-This repository provides the Java implementation of two algorithms for fast set similarity R-S joins (SSR-SJ):
+This repository provides the Java implementation of two algorithms for fast set similarity RS-joins (SSR-SJ):
 
-- **FV-treeR-SJ**: A fast algorithm using FV-tree for set similarity R-S joins.
+- **FV-treeR-SJ**: A fast algorithm using FV-tree for set similarity RS-joins.
 - **LFV-treeR-SJ**: An enhanced version of FV-treeR-SJ, utilizing a more efficient LFV-tree.
-
-Both algorithms are implemented in Java and leverage the MapReduce framework to efficiently handle large-scale data.
 
 ## Dependencies
 

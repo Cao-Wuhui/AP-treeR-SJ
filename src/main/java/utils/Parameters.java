@@ -5,14 +5,15 @@
 
 package utils;
 
-import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.DefaultStringifier;
 import org.apache.hadoop.util.GenericsUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Parameters {
     private static final Logger log = LoggerFactory.getLogger(Parameters.class);

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84954e7d-1456-4afa-a6ec-a12e03566949" name="Changes" comment="fv-treeR-SJ and lfv-treeR-SJ" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2k08jSxadL4JvhdV4Rv0t7ITVFO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RunMR.executor": "Run",
+    "Application.RunMRv2.executor": "Run",
+    "Application.RunSingle.executor": "Run",
+    "Maven.fps-join [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/论文/集合相似度计算/AP-treeR-SJ/src/main/java/utils",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\论文\集合相似度计算\fps-join-7-31\src\main\java\input" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\论文\集合相似度计算\fps-join-7-31\src\main\java\input" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunSingle">
+    <configuration name="RunMRv2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="run.RunMRv2" />
+      <module name="fps-join-7-31-jfc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunSingle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="run.RunSingle" />
+      <module name="AP-treeR-SJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunSingle" />
+        <item itemvalue="Application.RunMRv2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84954e7d-1456-4afa-a6ec-a12e03566949" name="Changes" comment="" />
+      <created>1722409270624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722409270624</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fv-treeR-SJ and lfv-treeR-SJ">
+      <option name="closed" value="true" />
+      <created>1733119969722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733119969722</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fv-treeR-SJ and lfv-treeR-SJ">
+      <option name="closed" value="true" />
+      <created>1733120208474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733120208474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fv-treeR-SJ and lfv-treeR-SJ">
+      <option name="closed" value="true" />
+      <created>1733141962309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733141962309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fv-treeR-SJ and lfv-treeR-SJ">
+      <option name="closed" value="true" />
+      <created>1733143412819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733143412819</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fv-treeR-SJ and lfv-treeR-SJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="fv-treeR-SJ and lfv-treeR-SJ" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((java.util.ArrayList)((Itr)var17).this$0).get(100)" custom="java.util.ArrayList.Itr,java.util.ArrayList" />
+        <watch expression="this.outputValue" language="JAVA" />
+        <watch expression="this.outputKey" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
