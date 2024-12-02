@@ -29,10 +29,11 @@ public class RunSingle {
 
         //String treeType = "lfvtree";
         String treeType = "fvtree";
-        String rInputPath = "src/main/java/input/dblp1ws";//rinput建树
-        String sInputPath = "src/main/java/input/dblp1wr";//sinput搜素
-        String outputPath = "src/main/java/output/out";
-        double threshold = (double)(0.5);
+        String rInputPath = "src/main/java/input/dblp1ws";//Input set collection R
+        String sInputPath = "src/main/java/input/dblp1wr";//Input set collection S
+        String outputPath = "src/main/java/output/out";//Output set pairs
+        //Setting the threshold and number of threads
+        double threshold = 0.5;
         int numThread = 8;
         String logpath = "src/main/java/output/lo";
 
@@ -41,17 +42,17 @@ public class RunSingle {
         System.out.println("outputPath = " + outputPath);
         System.out.println("threshold = " + threshold);
         System.out.println("numThread = " + numThread);
-        TreeBase tree = TreeBase.getTree(treeType);
-        Map<String, List<Pair>> aidToPairList = countAndReverse(tree, rInputPath);
+        TreeBase tree = TreeBase.getTree(treeType);//Select the type of tree
+        Map<String, List<Pair>> aidToPairList = countAndReverse(tree, rInputPath);//Reorganize the collection S
 
         Date startTime = new Date();
         Date startIndexTime = new Date();
-        tree.createTree(aidToPairList);
+        tree.createTree(aidToPairList);//Create a tree
         Date endIndexTime = new Date();
         double indexTime = ((endIndexTime.getTime() - startIndexTime.getTime())*1.0 / 1000L);
         System.out.println("Index Time is " + indexTime + " second");
         Date startMineTime = new Date();
-        mineLocal(tree, sInputPath, outputPath, threshold, numThread);
+        mineLocal(tree, sInputPath, outputPath, threshold, numThread);//Search the tree
         Date endMineTime = new Date();
         double mineTime = ((endMineTime.getTime() - startMineTime.getTime())*1.0 / 1000L);
         System.out.println("Mine Time is " + mineTime + " second");
@@ -88,8 +89,9 @@ public class RunSingle {
         OutputStreamWriter outputStreamWriter = new OutputStreamWriter(f2);
         BufferedWriter writer = new BufferedWriter(outputStreamWriter);
         List<Query> queryList = new ArrayList();
-        tree.parseQueryInReader(reader, queryList, threshold);//解析查询集
-        Collections.sort(queryList);//对于每个r查询集，对|r|进行降序排列，优先搜索次数最多的r
+        tree.parseQueryInReader(reader, queryList, threshold);
+        Collections.sort(queryList);
+        //Split the collection R by number of threads
         if (numThread > queryList.size()) {
             numThread = queryList.size();
         }

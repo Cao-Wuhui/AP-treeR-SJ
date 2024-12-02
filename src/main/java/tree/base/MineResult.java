@@ -8,6 +8,7 @@ package tree.base;
 import java.util.ArrayList;
 import java.util.List;
 
+//The format of result
 public class MineResult {
     private String uid;
     private List<Double> weightList = new ArrayList();

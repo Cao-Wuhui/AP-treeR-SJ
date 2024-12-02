@@ -24,7 +24,7 @@ class SubRunner extends RunnerBase {
     }
 
     public void run() {
-        Iterator var1 = this.queryList.iterator();//遍历该线程的查询集
+        Iterator var1 = this.queryList.iterator();
 
         while(var1.hasNext()) {
             Query query = (Query)var1.next();

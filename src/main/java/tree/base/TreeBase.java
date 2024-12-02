@@ -30,16 +30,17 @@ public abstract class TreeBase {
         int i = 0;
         int numThread = runners.size();
 
+        //A simple multithreaded implementation example
         Iterator var5;
         for(var5 = queryList.iterator(); var5.hasNext(); i = (i + 1) % numThread) {
             Query query = (Query)var5.next();
-            ((RunnerBase)runners.get(i)).add(query);//每个线程runner所对应的query
+            ((RunnerBase)runners.get(i)).add(query);
         }
 
-        var5 = runners.iterator();//var5指向线程
+        var5 = runners.iterator();
 
         RunnerBase runner;
-        while(var5.hasNext()) {//开启每个线程runner
+        while(var5.hasNext()) {
             runner = (RunnerBase)var5.next();
             runner.start();
         }
@@ -59,35 +60,31 @@ public abstract class TreeBase {
     public void parseQueryInReader(BufferedReader reader, List<Query> queryList, double threshold) throws IOException {
         String line;
         while((line = reader.readLine()) != null) {
-            Query query = this.generateQuery(line, threshold);//处理r的每一行
+            Query query = this.generateQuery(line, threshold);
             queryList.add(query);
         }
     }
 
     public void parseAidToPairListInReader(BufferedReader reader, Map<String, List<Pair>> aidToPairList) throws IOException {
         label20:
-        while(true) {//在此函数中进行|si|大小、|seq(ai)|大小的测量
-
+        while(true) {
             String line;
             if ((line = reader.readLine()) != null) {
                 StringTokenizer st = new StringTokenizer(line);
-                int count = st.countTokens() - 1;//这个集合的元素个数
+                int count = st.countTokens() - 1;
                 String uid = st.nextToken();
                 Pair pair = new Pair(uid, count);
-
                 while(true) {
                     if (!st.hasMoreTokens()) {
-                        continue label20;//读下一个集合
+                        continue label20;
                     }
-
                     String aid = st.nextToken();
-                    List<Pair> pairs = (List)aidToPairList.get(aid);
+                    List<Pair> pairs = aidToPairList.get(aid);
                     if (pairs == null) {
                         pairs = new ArrayList();
                         aidToPairList.put(aid, pairs);
                     }
-
-                    ((List)pairs).add(pair);
+                    pairs.add(pair);
                 }
             }
             return;
