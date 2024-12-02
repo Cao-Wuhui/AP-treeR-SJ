@@ -41,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/论文/集合相似度计算/AP-treeR-SJ/src/main/java/utils",
+    "last_opened_file_path": "E:/论文/集合相似度计算/AP-treeR-SJ/src/main/java/input",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -50,10 +50,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\论文\集合相似度计算\AP-treeR-SJ\src\main\java\tree\lfvtree" />
+      <recent name="E:\论文\集合相似度计算\AP-treeR-SJ\src\main\java\utils" />
       <recent name="E:\论文\集合相似度计算\fps-join-7-31\src\main\java\input" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\论文\集合相似度计算\fps-join-7-31\src\main\java\input" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tree.base" />
     </key>
   </component>
   <component name="RunManager" selected="Application.RunSingle">
