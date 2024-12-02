@@ -1,0 +1,2976 @@
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 2.0
+time: 2.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 2.0
+time: 2.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 2.0
+time: 2.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 2.0
+time: 2.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 2.0
+time: 2.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 684.0
+mineTime: 805.0
+time: 1496.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 3.0
+time: 3.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 3.0
+time: 3.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 532.0
+time: 532.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 1275.0
+time: 1275.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 7.0
+time: 7.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 7.0
+time: 8.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.0
+mineTime: 6.0
+time: 6.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 3.0
+time: 3.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.0
+mineTime: 10.0
+time: 10.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 15.0
+time: 15.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 71.0
+time: 71.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 9.0
+time: 9.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 9.0
+time: 9.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 82.0
+time: 82.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 4854.0
+time: 4854.0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 8.0
+time: 8.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 8.0
+time: 8.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1ws
+sInput: src/main/java/input/fb1w
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 7.0
+time: 7.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 1542.0
+mineTime: 0.0
+time: 1542.0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 14961.0
+mineTime: 0.0
+time: 14961.0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 6.0
+mineTime: 0.0
+time: 6.0
+************FPSJoin************
+treeType: telpstree
+method: hash
+partitioner: 
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 2
+numThread: 1
+job1Time: 0.0
+job2Time: 9.0
+jobTime: 9.0
+diskUsage: 41847421
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.0
+mineTime: 0.0
+time: 0.0
+************FPSJoin************
+treeType: telpstree
+method: hash
+partitioner: 
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 22.0
+jobTime: 23.0
+diskUsage: 125739612
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.407
+mineTime: 1.418
+time: 2.825
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1wr
+sInput: src/main/java/input/dblp1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.304
+mineTime: 1.155
+time: 2.459
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.22
+mineTime: 8.838
+time: 10.058
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.106
+mineTime: 7.44
+time: 8.546
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.745
+mineTime: 16.558
+time: 17.303
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.696
+mineTime: 16.779
+time: 17.475
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.681
+mineTime: 16.727
+time: 17.408
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.359
+mineTime: 16.435
+time: 17.795
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.113
+mineTime: 3.638
+time: 3.751
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.121
+mineTime: 3.601
+time: 3.722
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/fb1w
+sInput: src/main/java/input/fb1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.123
+mineTime: 3.317
+time: 3.44
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.358
+mineTime: 16.266
+time: 17.624
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.388
+mineTime: 16.585
+time: 17.973
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.355
+mineTime: 17.72
+time: 19.076
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.344
+mineTime: 15.764
+time: 17.108
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.379
+mineTime: 16.668
+time: 18.047
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1wr
+sInput: src/main/java/input/enron1ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.328
+mineTime: 16.406
+time: 17.734
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/kosa1ws
+sInput: src/main/java/input/kosa1w
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.14
+mineTime: 1.689
+time: 1.829
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.413
+mineTime: 783.577
+time: 784.991
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.435
+mineTime: 1.786
+time: 3.221
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.453
+mineTime: 1.791
+time: 3.245
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 1.414
+mineTime: 5.348
+time: 6.762
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 1.46
+mineTime: 4.798
+time: 6.258
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 1.369
+mineTime: 4.739
+time: 6.108
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.4
+indexTime: 0.706
+mineTime: 42.596
+time: 43.302
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.4
+indexTime: 1.085
+mineTime: 31.909
+time: 32.994
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.065
+mineTime: 8.524
+time: 9.589
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.699
+mineTime: 19.518
+time: 20.217
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.881
+mineTime: 27.05
+time: 27.931
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.385
+mineTime: 1.784
+time: 3.169
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 1.42
+mineTime: 3.782
+time: 5.202
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/kosa1ws
+sInput: src/main/java/input/kosa1w
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.123
+mineTime: 1.664
+time: 1.788
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/kosa1ws
+sInput: src/main/java/input/kosa1w
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.118
+mineTime: 2.259
+time: 2.377
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.134
+mineTime: 59.097
+time: 59.231
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.124
+mineTime: 81.407
+time: 81.531
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.781
+mineTime: 18.528
+time: 19.31
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.047
+mineTime: 8.432
+time: 9.479
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.06
+mineTime: 7.9
+time: 8.96
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.041
+mineTime: 8.088
+time: 9.129
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.114
+mineTime: 37.71
+time: 37.824
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.401
+mineTime: 1.343
+time: 2.744
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.375
+mineTime: 1.301
+time: 2.676
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 1.498
+mineTime: 2.851
+time: 4.35
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 245.243
+mineTime: 704.473
+time: 949.716
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 246.303
+mineTime: 2077.856
+time: 2324.159
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 231.772
+mineTime: 0.0
+time: 231.772
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20wr
+sInput: src/main/java/input/dblp_20ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 216.426
+mineTime: 0.0
+time: 216.427
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_30ws
+sInput: src/main/java/input/dblp_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 476.034
+mineTime: 0.0
+time: 476.035
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_30ws
+sInput: src/main/java/input/dblp_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 491.807
+mineTime: 0.0
+time: 491.808
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_30ws
+sInput: src/main/java/input/dblp_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 462.194
+mineTime: 0.0
+time: 462.195
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_30ws
+sInput: src/main/java/input/kosarak_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 3.162
+mineTime: 0.0
+time: 3.162
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_30wr
+sInput: src/main/java/input/kosarak_30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 3.356
+mineTime: 0.0
+time: 3.356
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_30wr
+sInput: src/main/java/input/dblp_30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 441.569
+mineTime: 0.0
+time: 441.571
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_30ws
+sInput: src/main/java/input/dblp_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 450.841
+mineTime: 0.0
+time: 450.842
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron_30ws
+sInput: src/main/java/input/enron_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 825.0
+mineTime: 0.0
+time: 825.001
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron_30wr
+sInput: src/main/java/input/enron_30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 875.011
+mineTime: 0.0
+time: 875.012
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac30ws
+sInput: src/main/java/input/ac30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 4.105
+mineTime: 0.0
+time: 4.105
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac30wr
+sInput: src/main/java/input/ac30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 4.042
+mineTime: 0.0
+time: 4.042
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 251.979
+mineTime: 552.422
+time: 804.402
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 77.0
+jobTime: 77.0
+diskUsage: 1178738
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 45.0
+jobTime: 46.0
+diskUsage: 1178738
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 202 2147483647
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 22.0
+jobTime: 23.0
+diskUsage: 100778129
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 202 2147483647
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 21.0
+jobTime: 22.0
+diskUsage: 100778129
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.079
+mineTime: 8.124
+time: 9.203
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 202 2147483647
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 21.0
+jobTime: 22.0
+diskUsage: 100777962
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 202 2147483647
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 21.0
+jobTime: 22.0
+diskUsage: 100771730
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.073
+mineTime: 8.22
+time: 9.293
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.738
+mineTime: 17.194
+time: 17.932
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 202 2147483647
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 21.0
+jobTime: 22.0
+diskUsage: 100771730
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 202 2147483647
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 21.0
+jobTime: 22.0
+diskUsage: 100778129
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 8
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1172832
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 8
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1172832
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1172832
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179064
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179064
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 879393
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 879393
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 874719
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 10.0
+jobTime: 11.0
+diskUsage: 61540238
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1172772
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 91.0
+jobTime: 92.0
+diskUsage: 1179004
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 139.0
+jobTime: 139.0
+diskUsage: 1172772
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.001
+mineTime: 0.002
+time: 0.004
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.002
+mineTime: 0.003
+time: 0.005
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179004
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1172772
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 157.0
+jobTime: 157.0
+diskUsage: 1179004
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 74.0
+job2Time: 18.0
+jobTime: 100.0
+diskUsage: 1172772
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179004
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1172740
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 883983
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 196.0
+jobTime: 196.0
+diskUsage: 1179546
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 56.0
+jobTime: 56.0
+diskUsage: 1179546
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179546
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1173314
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179546
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179282
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 204.0
+jobTime: 204.0
+diskUsage: 1179282
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 10.0
+jobTime: 11.0
+diskUsage: 1173050
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179282
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1173050
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1173082
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1173082
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179314
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 1.088
+mineTime: 18.372
+time: 19.46
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 1.121
+mineTime: 0.0
+time: 1.121
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179314
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179314
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.0
+job2Time: 1.0
+jobTime: 2.0
+diskUsage: 1179578
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.317
+job2Time: 1.685
+jobTime: 2.03
+diskUsage: 1173346
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.335
+job2Time: 1.721
+jobTime: 2.085
+diskUsage: 1173346
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.33
+job2Time: 1.724
+jobTime: 2.081
+diskUsage: 1179578
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.319
+job2Time: 1.725
+jobTime: 2.072
+diskUsage: 1173346
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.316
+job2Time: 1.707
+jobTime: 2.051
+diskUsage: 1173346
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.315
+job2Time: 1.703
+jobTime: 2.047
+diskUsage: 1179578
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.401
+job2Time: 1.843
+jobTime: 2.283
+diskUsage: 1179578
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.395
+job2Time: 1.877
+jobTime: 2.31
+diskUsage: 1179578
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.357
+job2Time: 1.863
+jobTime: 2.252
+diskUsage: 1179598
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.361
+job2Time: 1.789
+jobTime: 2.182
+diskUsage: 1173346
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.365
+job2Time: 1.885
+jobTime: 2.281
+diskUsage: 1167134
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.351
+job2Time: 1.807
+jobTime: 2.191
+diskUsage: 1179598
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.371
+job2Time: 1.813
+jobTime: 2.22
+diskUsage: 1179578
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.372
+job2Time: 1.835
+jobTime: 2.24
+diskUsage: 1179314
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.35
+job2Time: 1.86
+jobTime: 2.24
+diskUsage: 1173366
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 1
+job1Time: 0.355
+job2Time: 1.815
+jobTime: 2.204
+diskUsage: 1173082
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.37
+mineTime: 1.463
+time: 2.834
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 268.677
+mineTime: 588.239
+time: 856.917
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 265.213
+mineTime: 804.615
+time: 1069.828
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosa1ws
+sInput: src/main/java/input/kosa1w
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.134
+mineTime: 1.877
+time: 2.011
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_20ws
+sInput: src/main/java/input/kosarak_20wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 2.074
+mineTime: 1123.683
+time: 1125.758
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/kosarak_20ws
+sInput: src/main/java/input/kosarak_20wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 2.129
+mineTime: 1384.651
+time: 1386.78
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_30ws
+sInput: src/main/java/input/kosarak_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 3.85
+mineTime: 0.0
+time: 3.85
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_30ws
+sInput: src/main/java/input/kosarak_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 3.802
+mineTime: 0.0
+time: 3.802
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_30wr
+sInput: src/main/java/input/kosarak_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 3.883
+mineTime: 0.0
+time: 3.883
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac30wr
+sInput: src/main/java/input/ac30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 4.507
+mineTime: 0.0
+time: 4.507
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac30ws
+sInput: src/main/java/input/ac30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 4.64
+mineTime: 0.0
+time: 4.64
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.4
+mineTime: 1.311
+time: 2.711
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.326
+mineTime: 1.287
+time: 2.613
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 1.403
+mineTime: 2.761
+time: 4.165
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.665
+mineTime: 1.495
+time: 3.161
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.45
+mineTime: 1.8
+time: 3.25
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.421
+mineTime: 0.853
+time: 2.274
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 339.197
+mineTime: 933.975
+time: 1273.172
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/dblp_30ws
+sInput: src/main/java/input/dblp_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 449.836
+mineTime: 0.0
+time: 449.836
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_30ws
+sInput: src/main/java/input/dblp_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 472.32
+mineTime: 0.0
+time: 472.32
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_30wr
+sInput: src/main/java/input/dblp_30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 452.231
+mineTime: 0.0
+time: 452.231
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_30wr
+sInput: src/main/java/input/kosarak_30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 3.329
+mineTime: 0.0
+time: 3.329
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_30ws
+sInput: src/main/java/input/kosarak_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 3.176
+mineTime: 0.0
+time: 3.176
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron_30ws
+sInput: src/main/java/input/enron_30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 825.161
+mineTime: 0.0
+time: 825.161
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron_30wr
+sInput: src/main/java/input/enron_30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 930.545
+mineTime: 0.0
+time: 930.545
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac30wr
+sInput: src/main/java/input/ac30ws
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 4.407
+mineTime: 0.0
+time: 4.407
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac30ws
+sInput: src/main/java/input/ac30wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 4.247
+mineTime: 0.0
+time: 4.247
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac10ws
+sInput: src/main/java/input/ac10wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.853
+mineTime: 5731.291
+time: 5732.144
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac10ws
+sInput: src/main/java/input/ac10wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.842
+mineTime: 12884.142
+time: 12884.985
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 434.997
+mineTime: 2083.287
+time: 2518.284
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 310.498
+mineTime: 717.434
+time: 1027.932
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 312.534
+mineTime: 2008.611
+time: 2321.145
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_20ws
+sInput: src/main/java/input/kosarak_20wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 2.405
+mineTime: 1098.305
+time: 1100.71
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_20ws
+sInput: src/main/java/input/kosarak_20wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 2.294
+mineTime: 1263.245
+time: 1265.539
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/kosarak_20ws
+sInput: src/main/java/input/kosarak_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 2.397
+mineTime: 517.113
+time: 519.51
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 1.188
+mineTime: 10.42
+time: 11.608
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 1.129
+job2Time: 14.714
+jobTime: 15.903
+diskUsage: 61540186
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron_20ws
+sInput: src/main/java/input/enron_20wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 559.153
+mineTime: 8645.211
+time: 9204.364
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron_20ws
+sInput: src/main/java/input/enron_20wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 392.164
+mineTime: 14703.202
+time: 15095.368
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.002
+mineTime: 0.006
+time: 0.008
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.002
+mineTime: 0.003
+time: 0.005
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.002
+mineTime: 0.004
+time: 0.006
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.003
+mineTime: 0.003
+time: 0.006
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 1
+numThread: 1
+job1Time: 0.679
+job2Time: 1071.71
+jobTime: 1072.461
+diskUsage: 164996885
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 16 2147483647
+rInput: src/main/java/input/dblp_10ws
+sInput: src/main/java/input/dblp_10wr
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 4
+job1Time: 0.46
+job2Time: 126.517
+jobTime: 127.006
+diskUsage: 118683398
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 16 2147483647
+rInput: src/main/java/input/dblp_20ws
+sInput: src/main/java/input/dblp_20wr
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 2
+numThread: 4
+job1Time: 0.448
+job2Time: 537.202
+jobTime: 537.682
+diskUsage: 237400246
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 16 2147483647
+rInput: src/main/java/input/dblp_10ws
+sInput: src/main/java/input/dblp_10wr
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 2
+numThread: 4
+job1Time: 0.382
+job2Time: 117.449
+jobTime: 117.858
+diskUsage: 118683398
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp_30ws
+sInput: src/main/java/input/dblp_30ws
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 511.029
+mineTime: 5926.447
+time: 6437.476
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 16 2147483647
+rInput: src/main/java/input/dblp_10ws
+sInput: src/main/java/input/dblp_10wr
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 2
+numThread: 4
+job1Time: 0.425
+job2Time: 137.764
+jobTime: 138.22
+diskUsage: 118683398
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 2147483647
+rInput: src/main/java/input/dblp_30ws
+sInput: src/main/java/input/dblp_30wr
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 16
+numThread: 20
+job1Time: 0.516
+job2Time: 182.744
+jobTime: 183.29
+diskUsage: 1793691824
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2 3 4 5 7 10 14 19 25 33 44 59 81 118 202 2147483647
+rInput: src/main/java/input/kosarak_30ws
+sInput: src/main/java/input/kosarak_30wr
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 16
+numThread: 20
+job1Time: 1.727
+job2Time: 147.915
+jobTime: 149.671
+diskUsage: 63068826992
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 66 92 113 131 150 170 192 216 245 279 323 380 466 618 976 2147483647
+rInput: src/main/java/input/enron_30ws
+sInput: src/main/java/input/enron_30wr
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 16
+numThread: 20
+job1Time: 3.123
+job2Time: 1378.653
+jobTime: 1381.809
+diskUsage: 19742823978
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 2147483647
+rInput: src/main/java/input/ac30ws
+sInput: src/main/java/input/ac30wr
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 16
+numThread: 20
+job1Time: 0.537
+job2Time: 1357.649
+jobTime: 1358.219
+diskUsage: 13913014058
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 2
+job1Time: 0.695
+job2Time: 38.688
+jobTime: 39.43
+diskUsage: 20787788
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.11
+mineTime: 49.05
+time: 49.161
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.107
+mineTime: 50.569
+time: 50.677
+************FPSJoin************
+treeType: fpstree
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.9
+indexTime: 0.11
+mineTime: 57.156
+time: 57.266
+************FPSJoin************
+treeType: split_telpstree_2
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 1.299
+mineTime: 2.427
+time: 3.726
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 1.468
+mineTime: 2.104
+time: 3.572
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.127
+mineTime: 63.321
+time: 63.448
+************FPSJoin************
+treeType: split_telpstree_2
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.147
+mineTime: 55.047
+time: 55.194
+************FPSJoin************
+treeType: split_telpstree_4
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.216
+mineTime: 57.099
+time: 57.315
+************FPSJoin************
+treeType: split_telpstree_4
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.181
+mineTime: 58.377
+time: 58.558
+************FPSJoin************
+treeType: split_telpstree_3
+rInput: src/main/java/input/ac1ws
+sInput: src/main/java/input/ac1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.144
+mineTime: 61.755
+time: 61.899
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/outp
+threshold: 0.7
+numReducer: 2
+numThread: 1
+job1Time: 0.32
+job2Time: 3.295
+jobTime: 3.646
+diskUsage: 1179076
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.5
+numReducer: 2
+numThread: 1
+job1Time: 0.34
+job2Time: 1.807
+jobTime: 2.176
+diskUsage: 1179448
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.019
+mineTime: 0.002
+time: 0.021
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 0.003
+mineTime: 0.004
+time: 0.007
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 0.029
+mineTime: 0.018
+time: 0.048
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 3 2147483647
+rInput: src/main/java/input/r1
+sInput: src/main/java/input/s1
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 1
+job1Time: 0.311
+job2Time: 1.838
+jobTime: 2.179
+diskUsage: 1179004
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 1.544
+mineTime: 4.486
+time: 6.031
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/1ws
+sInput: src/main/java/input/1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 0.018
+mineTime: 0.003
+time: 0.021
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 1.633
+mineTime: 5.793
+time: 7.426
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 1.203
+mineTime: 4.122
+time: 5.325
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 20 2147483647
+rInput: src/main/java/input/dblp1wr
+sInput: src/main/java/input/dblp1ws
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 1
+job1Time: 0.356
+job2Time: 5.907
+jobTime: 6.291
+diskUsage: 14119810
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 16 2147483647
+rInput: src/main/java/input/dblp_20wr
+sInput: src/main/java/input/dblp_20ws
+output: src/main/java/output/outp
+threshold: 0.9
+numReducer: 2
+numThread: 1
+job1Time: 0.493
+job2Time: 610.199
+jobTime: 610.727
+diskUsage: 237278171
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/dblp_20wr
+sInput: src/main/java/input/dblp_20ws
+output: src/main/java/output/outp
+threshold: 0.6
+numReducer: 1
+numThread: 4
+job1Time: 0.451
+job2Time: 1019.661
+jobTime: 1020.146
+diskUsage: 165095182
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 1.158
+mineTime: 3.898
+time: 5.056
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/1ws
+sInput: src/main/java/input/1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 0.003
+mineTime: 0.003
+time: 0.006
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 1.636
+mineTime: 1.977
+time: 3.613
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 1.279
+mineTime: 4.389
+time: 5.668
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/enron1ws
+sInput: src/main/java/input/enron1wr
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 1.173
+mineTime: 3.983
+time: 5.156
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.003
+mineTime: 0.002
+time: 0.005
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/s1
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.002
+mineTime: 0.003
+time: 0.006
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/s1
+output: src/main/java/output/out
+threshold: 0.6
+indexTime: 0.001
+mineTime: 0.002
+time: 0.004
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.01
+mineTime: 0.017
+time: 0.027
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/s1
+sInput: src/main/java/input/r1
+output: src/main/java/output/out
+threshold: 0.8
+indexTime: 0.002
+mineTime: 0.002
+time: 0.004
+************FPSJoin************
+treeType: telpstree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 1.601
+mineTime: 1.107
+time: 2.708
+************FV-treeR-SJ************
+treeType: lfvtree
+rInput: src/main/java/input/1ws
+sInput: src/main/java/input/1wr
+output: src/main/java/output/out
+threshold: 0.7
+indexTime: 0.003
+mineTime: 0.003
+time: 0.006
+************FV-treeR-SJ************
+treeType: lfvtree
+rInput: src/main/java/input/dblp1ws
+sInput: src/main/java/input/dblp1wr
+output: src/main/java/output/out
+threshold: 0.5
+indexTime: 2.368
+mineTime: 1.679
+time: 4.048
