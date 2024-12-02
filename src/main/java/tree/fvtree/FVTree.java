@@ -76,6 +76,7 @@ public class FVTree extends TreeBase {
                 query.addPair(new Pair(aid, size));
             }
         }
+        query.sortAirPairs();
         return query;
     }
 
